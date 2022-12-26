@@ -27,12 +27,14 @@ console.log(`name: ${data.name} | start	: ${data.start_date}`);
 //         hr: 121,
 //     }),
 // ];
+
 const points = data.all_steps.map((step) => {
     return new Point(step.location.lat, step.location.lon, {
         ele: 0,
         time: new Date(step.start_time * 1000)
     })
 })
+
 
 const gpxData = new GarminBuilder();
 
@@ -42,6 +44,17 @@ const out = buildGPX(gpxData.toObject());
 console.log('writing out...');
 
 writeFile('data.gpx', out, () => {
-    console.log('done!');
+    console.log('data.gpx done!');
 
 })
+
+
+const steps_paths = data.all_steps.reduce((stepChunks, step) => {
+    if ('media' in step) {
+        stepChunks.at(-1).push(step);
+        stepChunks.push([]);
+    }
+    stepChunks.at(-1).push(step);
+
+    return stepChunks;
+}, [[]])

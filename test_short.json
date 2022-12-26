@@ -1,0 +1,17 @@
+{
+    "id": 1759135074,
+    "location": {
+        "administrative_area": "Hradec Králové",
+        "country": "Czechia",
+        "country_code": "CZ",
+        "detail": "Czechia",
+        "lat": 50.18563617595824,
+        "locality": "Hradec Králové",
+        "lon": 15.82873292851611,
+        "name": "Hradec Králové",
+        "precision": 49.46541173998159
+    },
+    "start_time": 1665440955.942638,
+    "trip_id": 5767928,
+    "uuid": "F8FCAEC7-4C3B-4238-BB40-2B6B31F615B5"
+}

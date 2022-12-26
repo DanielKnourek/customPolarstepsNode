@@ -58,3 +58,13 @@ const steps_paths = data.all_steps.reduce((stepChunks, step) => {
 
     return stepChunks;
 }, [[]])
+
+let shortest = steps_paths.map(stepchunk => stepchunk.length);
+console.log(`Number of chunks: ${steps_paths.length}| array sorted size ${shortest.sort()}`);
+
+const outJson = JSON.stringify(steps_paths);
+
+writeFile('data_out.json', outJson, () => {
+    console.log('data_out.json done!');
+
+})

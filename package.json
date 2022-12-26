@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "version": "1.0.0",
+  "main": "out/index.js",
+  "author": "Daniel Kňourek",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc --watch",
+    "dev": "ts-node-esm index.ts"
+  },
+  "dependencies": {
+    "gpx-builder": "^5.1.1",
+    "ts-node": "^10.9.1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/node": "^18.11.17",
+    "nodemon": "^2.0.20",
+    "typescript": "^4.9.4"
+  }
+}

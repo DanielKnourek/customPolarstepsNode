@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx creator="fabulator:gpx-builder" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
   <trk>
+    <name>undefined -&gt; Here we go! 🚀</name>
     <trkseg>
       <trkpt lat="50.18570899977303" lon="15.829120324275992">
         <ele>0</ele>
@@ -73,6 +74,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Here we go! 🚀 -&gt; Hallo, my name ist.</name>
     <trkseg>
       <trkpt lat="50.087684059133316" lon="14.439838650038642">
         <ele>0</ele>
@@ -165,6 +167,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Hallo, my name ist. -&gt; Jakože památky</name>
     <trkseg>
       <trkpt lat="50.7854255294244" lon="13.894938824043418">
         <ele>0</ele>
@@ -529,6 +532,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Jakože památky -&gt; Wow. Wow. Wow. 🎭</name>
     <trkseg>
       <trkpt lat="50.11490146512351" lon="8.683004558448285">
         <ele>0</ele>
@@ -569,6 +573,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Wow. Wow. Wow. 🎭 -&gt; 🥃👌</name>
     <trkseg>
       <trkpt lat="50.109527651771316" lon="8.671844203078647">
         <ele>0</ele>
@@ -645,6 +650,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>🥃👌 -&gt; Náhodné a agregované poznatky</name>
     <trkseg>
       <trkpt lat="50.109653642317795" lon="8.669714186917663">
         <ele>0</ele>
@@ -769,6 +775,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Náhodné a agregované poznatky -&gt; Požehnání uděleno 🙏</name>
     <trkseg>
       <trkpt lat="50.05226283124937" lon="8.590017146079814">
         <ele>0</ele>
@@ -813,6 +820,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Požehnání uděleno 🙏 -&gt; Pá pá Evropo ✌️</name>
     <trkseg>
       <trkpt lat="50.05180945598708" lon="8.591808819095437">
         <ele>0</ele>
@@ -829,6 +837,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Pá pá Evropo ✌️ -&gt; Je potřeba dotankovat!</name>
     <trkseg>
       <trkpt lat="24.962681562622475" lon="46.70109984461589">
         <ele>0</ele>
@@ -841,6 +850,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Je potřeba dotankovat! -&gt; Noční pauza pro jistotu</name>
     <trkseg>
       <trkpt lat="4.190592344549304" lon="73.52985012949685">
         <ele>0</ele>
@@ -853,6 +863,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Noční pauza pro jistotu -&gt; 🏝🏝🏝</name>
     <trkseg>
       <trkpt lat="1.3566013726029056" lon="103.9868074241041">
         <ele>0</ele>
@@ -937,6 +948,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>🏝🏝🏝 -&gt; Brunch 🥪</name>
     <trkseg>
       <trkpt lat="1.2984469566972718" lon="103.90831203196251">
         <ele>0</ele>
@@ -989,6 +1001,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Brunch 🥪 -&gt; Zeleň everywhere ✅</name>
     <trkseg>
       <trkpt lat="1.3086140829223987" lon="103.9122346019732">
         <ele>0</ele>
@@ -1025,6 +1038,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Zeleň everywhere ✅ -&gt; Fucking shitshow 🤷‍♂️</name>
     <trkseg>
       <trkpt lat="1.3608703130772817" lon="103.99065961690127">
         <ele>0</ele>
@@ -1069,6 +1083,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Fucking shitshow 🤷‍♂️ -&gt; Let z Manily</name>
     <trkseg>
       <trkpt lat="14.5102597624047" lon="121.01374971842002">
         <ele>0</ele>
@@ -1161,6 +1176,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Let z Manily -&gt; Poprvé na Australské půdě!</name>
     <trkseg>
       <trkpt lat="14.513896707051662" lon="121.02651098759176">
         <ele>0</ele>
@@ -1189,6 +1205,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Poprvé na Australské půdě! -&gt; Oh yes! </name>
     <trkseg>
       <trkpt lat="-33.93585485918264" lon="151.16553758213334">
         <ele>0</ele>
@@ -1249,6 +1266,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Oh yes!  -&gt; Mega skvělý první dojmy 😍</name>
     <trkseg>
       <trkpt lat="-27.38596271204242" lon="153.12054357409377">
         <ele>0</ele>
@@ -1309,6 +1327,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Mega skvělý první dojmy 😍 -&gt; Žádný ranní lenošení</name>
     <trkseg>
       <trkpt lat="-27.455689564574612" lon="153.0317074608945">
         <ele>0</ele>
@@ -1353,6 +1372,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Žádný ranní lenošení -&gt; Pravé poznávání 👌</name>
     <trkseg>
       <trkpt lat="-27.47934149999999" lon="153.03347777999994">
         <ele>0</ele>
@@ -1417,6 +1437,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Pravé poznávání 👌 -&gt; Pravé večerní poznávání 🌉</name>
     <trkseg>
       <trkpt lat="-27.469392935024253" lon="153.0544607824408">
         <ele>0</ele>
@@ -1457,6 +1478,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Pravé večerní poznávání 🌉 -&gt; Nechtěla mi nalít! 😱</name>
     <trkseg>
       <trkpt lat="-27.483271658266034" lon="153.02649678446872">
         <ele>0</ele>
@@ -1557,6 +1579,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Nechtěla mi nalít! 😱 -&gt; 🏞</name>
     <trkseg>
       <trkpt lat="-27.476486744742775" lon="153.01375141626627">
         <ele>0</ele>
@@ -1645,6 +1668,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>🏞 -&gt; 🍽🍷🥂</name>
     <trkseg>
       <trkpt lat="-27.906916886120193" lon="153.15981467937115">
         <ele>0</ele>
@@ -1689,6 +1713,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>🍽🍷🥂 -&gt; </name>
     <trkseg>
       <trkpt lat="-27.92488960652412" lon="153.18528183606557">
         <ele>0</ele>
@@ -1861,6 +1886,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name> -&gt; Toulky mimo centrum</name>
     <trkseg>
       <trkpt lat="-27.454538024207732" lon="153.0495534677461">
         <ele>0</ele>
@@ -1913,6 +1939,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Toulky mimo centrum -&gt; 🏛🏢🏪⛪️</name>
     <trkseg>
       <trkpt lat="-27.42623635795736" lon="153.01472860925077">
         <ele>0</ele>
@@ -2029,6 +2056,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>🏛🏢🏪⛪️ -&gt; Ministerstvo varuje!</name>
     <trkseg>
       <trkpt lat="-27.46557749659712" lon="153.02234262639743">
         <ele>0</ele>
@@ -2097,6 +2125,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Ministerstvo varuje! -&gt; Melbourne city 💛 (den první)</name>
     <trkseg>
       <trkpt lat="-27.386595957967224" lon="153.12047920543412">
         <ele>0</ele>
@@ -2185,6 +2214,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Melbourne city 💛 (den první) -&gt; Vzhůru do Číny 🇨🇳 a Berlína! 🇩🇪</name>
     <trkseg>
       <trkpt lat="-37.81706736511049" lon="144.95596928725186">
         <ele>0</ele>
@@ -2225,6 +2255,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Vzhůru do Číny 🇨🇳 a Berlína! 🇩🇪 -&gt; Melbourne city 💛 (den druhý)</name>
     <trkseg>
       <trkpt lat="-37.81276507120314" lon="144.96953316985145">
         <ele>0</ele>
@@ -2297,6 +2328,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Melbourne city 💛 (den druhý) -&gt; Bylo nebylo 🥰</name>
     <trkseg>
       <trkpt lat="-37.81934195616699" lon="144.97139756508682">
         <ele>0</ele>
@@ -2333,6 +2365,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Bylo nebylo 🥰 -&gt; Melbourne city 💛 (den třetí)</name>
     <trkseg>
       <trkpt lat="-37.81590783774015" lon="144.9653016725602">
         <ele>0</ele>
@@ -2397,6 +2430,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Melbourne city 💛 (den třetí) -&gt; Uuuuuh do třetice 🥃</name>
     <trkseg>
       <trkpt lat="-37.801067835554555" lon="144.97645554441715">
         <ele>0</ele>
@@ -2409,6 +2443,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Uuuuuh do třetice 🥃 -&gt; Melbourne city 💛 (půlden čtvrtý)</name>
     <trkseg>
       <trkpt lat="-37.79780467145116" lon="144.97872565985662">
         <ele>0</ele>
@@ -2457,6 +2492,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Melbourne city 💛 (půlden čtvrtý) -&gt; Great ocean road! 🎉 (den první)</name>
     <trkseg>
       <trkpt lat="-37.80805548112006" lon="144.93879427004703">
         <ele>0</ele>
@@ -2693,6 +2729,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Great ocean road! 🎉 (den první) -&gt; Great ocean road 2️⃣</name>
     <trkseg>
       <trkpt lat="-38.54294966236929" lon="143.97511159316798">
         <ele>0</ele>
@@ -2857,6 +2894,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Great ocean road 2️⃣ -&gt; Dvanáct apoštolů z jiného úhlu</name>
     <trkseg>
       <trkpt lat="-38.743818035227" lon="143.67362796824327">
         <ele>0</ele>
@@ -2881,6 +2919,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Dvanáct apoštolů z jiného úhlu -&gt; Great ocean road 3️⃣</name>
     <trkseg>
       <trkpt lat="-38.69752006842409" lon="143.15633563805386">
         <ele>0</ele>
@@ -2901,6 +2940,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Great ocean road 3️⃣ -&gt; Setkání s divočinou 👀</name>
     <trkseg>
       <trkpt lat="-38.61641477527461" lon="142.9998422572795">
         <ele>0</ele>
@@ -3129,6 +3169,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Setkání s divočinou 👀 -&gt; Koncentrovaná nádhernost 🧡</name>
     <trkseg>
       <trkpt lat="-38.383316497558866" lon="142.23597584824824">
         <ele>0</ele>
@@ -3505,6 +3546,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Koncentrovaná nádhernost 🧡 -&gt; Další stovky km 🏎</name>
     <trkseg>
       <trkpt lat="-37.16547196269002" lon="139.7621131910454">
         <ele>0</ele>
@@ -3873,6 +3915,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Další stovky km 🏎 -&gt; Rozhodně ne abstinenti 😬</name>
     <trkseg>
       <trkpt lat="-35.55655541670711" lon="138.62310709098261">
         <ele>0</ele>
@@ -3969,6 +4012,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Rozhodně ne abstinenti 😬 -&gt; Wow! 🎲</name>
     <trkseg>
       <trkpt lat="-35.18903944880273" lon="138.5449352287975">
         <ele>0</ele>
@@ -3981,6 +4025,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Wow! 🎲 -&gt; Od všechno něco 👌</name>
     <trkseg>
       <trkpt lat="-35.17032571099664" lon="138.55253439000157">
         <ele>0</ele>
@@ -4277,6 +4322,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Od všechno něco 👌 -&gt; Fakt byl divokej! 🦘</name>
     <trkseg>
       <trkpt lat="-34.52733352193441" lon="138.9553319467024">
         <ele>0</ele>
@@ -4553,6 +4599,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Fakt byl divokej! 🦘 -&gt; Adelaide 🤷‍♂️</name>
     <trkseg>
       <trkpt lat="-34.467201895767246" lon="138.91420051032114">
         <ele>0</ele>
@@ -4613,6 +4660,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Adelaide 🤷‍♂️ -&gt; She is so talented 🧡</name>
     <trkseg>
       <trkpt lat="-34.92916441904661" lon="138.590612397961">
         <ele>0</ele>
@@ -4881,6 +4929,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>She is so talented 🧡 -&gt; Gold Coast 🏖</name>
     <trkseg>
       <trkpt lat="-27.458521481690582" lon="153.0470938166853">
         <ele>0</ele>
@@ -4981,6 +5030,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Gold Coast 🏖 -&gt; Do víru velkoměsta! 🥃🥃🥃</name>
     <trkseg>
       <trkpt lat="-27.956745349592985" lon="153.42680600131868">
         <ele>0</ele>
@@ -5085,6 +5135,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Do víru velkoměsta! 🥃🥃🥃 -&gt; Byl jsem podveden 🤬</name>
     <trkseg>
       <trkpt lat="-27.46368006118246" lon="153.04182864939776">
         <ele>0</ele>
@@ -5121,6 +5172,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Byl jsem podveden 🤬 -&gt; Brisbane je prostě nádhernej</name>
     <trkseg>
       <trkpt lat="-27.47878031845357" lon="153.02896140937065">
         <ele>0</ele>
@@ -5545,6 +5597,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Brisbane je prostě nádhernej -&gt; Na ostrov suchou nohou 🦶🦶</name>
     <trkseg>
       <trkpt lat="-27.485346250154038" lon="152.96711923899574">
         <ele>0</ele>
@@ -5757,6 +5810,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Na ostrov suchou nohou 🦶🦶 -&gt; Raní ptáče dál doletí 🐥</name>
     <trkseg>
       <trkpt lat="-27.457523685996794" lon="153.23349571356843">
         <ele>0</ele>
@@ -5917,6 +5971,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Raní ptáče dál doletí 🐥 -&gt; Random trip se vyplatil</name>
     <trkseg>
       <trkpt lat="-34.035857538672396" lon="151.06180126067142">
         <ele>0</ele>
@@ -6081,6 +6136,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Random trip se vyplatil -&gt; Yesss! Jsem na Zélandu 🥰 💦</name>
     <trkseg>
       <trkpt lat="-34.002323073053454" lon="151.22142774502942">
         <ele>0</ele>
@@ -6221,6 +6277,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Yesss! Jsem na Zélandu 🥰 💦 -&gt; Výhledy jsou moje 👌</name>
     <trkseg>
       <trkpt lat="-36.972280316965396" lon="174.7882559438882">
         <ele>0</ele>
@@ -6337,6 +6394,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Výhledy jsou moje 👌 -&gt; Rooftop v epiku</name>
     <trkseg>
       <trkpt lat="-36.8713890632955" lon="174.76161832099973">
         <ele>0</ele>
@@ -6389,6 +6447,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Rooftop v epiku -&gt; Na druhém břehu ⛴</name>
     <trkseg>
       <trkpt lat="-36.85174597986753" lon="174.76403798337734">
         <ele>0</ele>
@@ -6449,6 +6508,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Na druhém břehu ⛴ -&gt; Rooftop v epiku #2</name>
     <trkseg>
       <trkpt lat="-36.82003454510597" lon="174.80513935845306">
         <ele>0</ele>
@@ -6549,6 +6609,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Rooftop v epiku #2 -&gt; Jupíí 🕺</name>
     <trkseg>
       <trkpt lat="-36.846448316884064" lon="174.76221007533695">
         <ele>0</ele>
@@ -6565,6 +6626,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Jupíí 🕺 -&gt; Vše špatné pro něco dobré?</name>
     <trkseg>
       <trkpt lat="-36.85671666355413" lon="174.7564481313644">
         <ele>0</ele>
@@ -6593,6 +6655,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Vše špatné pro něco dobré? -&gt; </name>
     <trkseg>
       <trkpt lat="-37.005587886850435" lon="174.78960151298102">
         <ele>0</ele>
@@ -6637,6 +6700,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name> -&gt; Takže taxíkomikrobusem 🚐</name>
     <trkseg>
       <trkpt lat="-36.985339147220294" lon="174.75327520455193">
         <ele>0</ele>
@@ -6721,6 +6785,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Takže taxíkomikrobusem 🚐 -&gt; Nejsem tu naposledy! 🥰</name>
     <trkseg>
       <trkpt lat="-37.22922928030101" lon="175.4230580321323">
         <ele>0</ele>
@@ -6825,6 +6890,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Nejsem tu naposledy! 🥰 -&gt; Místo, které většina zná 💣</name>
     <trkseg>
       <trkpt lat="-36.83264016782738" lon="175.70297086222027">
         <ele>0</ele>
@@ -6893,6 +6959,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Místo, které většina zná 💣 -&gt; Rád tě poznávám! 🤝</name>
     <trkseg>
       <trkpt lat="-36.82878567328753" lon="175.7905240307434">
         <ele>0</ele>
@@ -6957,6 +7024,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Rád tě poznávám! 🤝 -&gt; Další "poprvé" ☺️</name>
     <trkseg>
       <trkpt lat="-36.81951916667136" lon="175.69945469769624">
         <ele>0</ele>
@@ -7009,6 +7077,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Další "poprvé" ☺️ -&gt; Aotea Great Barrier 🛩 😲</name>
     <trkseg>
       <trkpt lat="-36.84186904730714" lon="175.66442612647307">
         <ele>0</ele>
@@ -7029,6 +7098,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Aotea Great Barrier 🛩 😲 -&gt; Božsky pozitivní zásah do 🧡</name>
     <trkseg>
       <trkpt lat="-36.242241993234266" lon="175.46788709157897">
         <ele>0</ele>
@@ -7413,6 +7483,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Božsky pozitivní zásah do 🧡 -&gt; Stargazing level nekonečno 🤩</name>
     <trkseg>
       <trkpt lat="-36.15649826391531" lon="175.4012918844468">
         <ele>0</ele>
@@ -7497,6 +7568,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Stargazing level nekonečno 🤩 -&gt; Jízda pokračuje, doslova! 🚗</name>
     <trkseg>
       <trkpt lat="-36.26852161901414" lon="175.49733654407584">
         <ele>0</ele>
@@ -7609,6 +7681,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Jízda pokračuje, doslova! 🚗 -&gt; Hobitín! 🧙‍♂️</name>
     <trkseg>
       <trkpt lat="-37.4044675" lon="175.16678249999998">
         <ele>0</ele>
@@ -7717,6 +7790,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Hobitín! 🧙‍♂️ -&gt; 🌫 Fog vlog 🌫</name>
     <trkseg>
       <trkpt lat="-37.85727799879807" lon="175.680986291169">
         <ele>0</ele>
@@ -7873,6 +7947,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>🌫 Fog vlog 🌫 -&gt; Prostě hezký :))</name>
     <trkseg>
       <trkpt lat="-38.30839833333333" lon="176.37538249999997">
         <ele>0</ele>
@@ -8145,6 +8220,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Prostě hezký :)) -&gt; Wellington</name>
     <trkseg>
       <trkpt lat="-40.264846238541544" lon="175.56715754139745">
         <ele>0</ele>
@@ -8369,6 +8445,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Wellington -&gt; Taková větší loďka + 🐬</name>
     <trkseg>
       <trkpt lat="-41.30030683333333" lon="174.79278333333332">
         <ele>0</ele>
@@ -8545,6 +8622,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Taková větší loďka + 🐬 -&gt; Jízda s otevřenou pusou 😲 + 🦭</name>
     <trkseg>
       <trkpt lat="-41.21412231943872" lon="174.322412961457">
         <ele>0</ele>
@@ -8901,6 +8979,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Jízda s otevřenou pusou 😲 + 🦭 -&gt; Cestou necestou</name>
     <trkseg>
       <trkpt lat="-43.44252183582536" lon="172.6473349468294">
         <ele>0</ele>
@@ -9129,6 +9208,7 @@
     </trkseg>
   </trk>
   <trk>
+    <name>Cestou necestou -&gt; undefined</name>
     <trkseg>
       <trkpt lat="-43.9515228614175" lon="170.48579865766365">
         <ele>0</ele>

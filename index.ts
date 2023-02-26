@@ -1,6 +1,9 @@
 import { writeFile } from 'fs';
 import { faker } from '@faker-js/faker';
 import data from './data.json' assert { type: "json" };
+import tokml from 'tokml';
+import togeojson from '@mapbox/togeojson';
+import { DOMParser } from 'xmldom'
 
 import { buildGPX, GarminBuilder, BaseBuilder } from 'gpx-builder';
 
@@ -24,7 +27,7 @@ const steps_paths = data.all_steps.reduce((stepChunks, step) => {
 }, [[]])
 
 const gpxData = new GarminBuilder();
-let segmets: InstanceType<typeof Segment>[] = [];
+let tracks: InstanceType<typeof Track>[] = [];
 
 steps_paths.forEach(stepArr => {
     // add step type definition
@@ -34,16 +37,25 @@ steps_paths.forEach(stepArr => {
             time: new Date(step.start_time * 1000),
         })
     })
-    segmets.push(new Segment(points))
+    tracks.push(new Track([new Segment(points)], {
+        name: `${stepArr.at(0)?.name} -> ${stepArr.at(-1)?.name}`
+    }))
 })
-console.log(`lenght seg:${segmets.length}`);
 
-gpxData.setTracks(segmets.map(segment => new Track([segment])));
+gpxData.setTracks(tracks);
 
 const out = buildGPX(gpxData.toObject());
 console.log('writing out...');
 
 writeFile('data.gpx', out, () => {
     console.log('data.gpx done!');
+
+})
+
+const rawData = new DOMParser().parseFromString(out);
+const kml = tokml(togeojson.gpx(rawData));
+
+writeFile('data.kml', kml, () => {
+    console.log('data.kml done!');
 
 })

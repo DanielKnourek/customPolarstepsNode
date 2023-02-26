@@ -9,8 +9,11 @@
     "dev": "ts-node-esm index.ts"
   },
   "dependencies": {
+    "@mapbox/togeojson": "^0.16.0",
     "gpx-builder": "^5.1.1",
-    "ts-node": "^10.9.1"
+    "tokml": "^0.4.0",
+    "ts-node": "^10.9.1",
+    "xmldom": "^0.6.0"
   },
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
